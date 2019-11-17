@@ -6,3 +6,5 @@ Bevasarlolista:
 4, Cigi
 5, Kabszer
 6, Toalettpapir
+7, Gumimaci
+8, Fogkrem
