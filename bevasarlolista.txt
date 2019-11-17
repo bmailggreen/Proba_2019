@@ -4,3 +4,5 @@ Bevasarlolista:
 2, Kenyer
 3, Sor
 4, Cigi
+5, Kabszer
+6, Toalettpapir
