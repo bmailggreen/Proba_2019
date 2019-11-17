@@ -4,9 +4,7 @@
 2, Kenyer
 3, Sor
 4, Cigi
-5, Kabszer
 6, Toalettpapir
-7, Gumimaci
 8, Fogkrem
 9, Dúsított urán
 10, Fogkefe
@@ -15,4 +13,4 @@
 13, Teve
 14; Porsche
 15, Na meg egyet
-16
+16, Ilyen elem nincs is
