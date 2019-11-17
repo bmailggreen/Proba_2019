@@ -1,4 +1,4 @@
-Bevasarlolista:
+﻿Bevasarlolista
 
 1, Tej
 2, Kenyer
@@ -8,3 +8,9 @@ Bevasarlolista:
 6, Toalettpapir
 7, Gumimaci
 8, Fogkrem
+9, Dúsított urán
+10, Fogkefe
+11, Lajhár
+12, Tégla
+13, Teve
+14; Porsche
