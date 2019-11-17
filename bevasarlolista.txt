@@ -2,3 +2,5 @@ Bevasarlolista:
 
 1, Tej
 2, Kenyer
+3, Sor
+4, Cigi
