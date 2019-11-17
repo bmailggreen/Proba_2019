@@ -1,2 +1,4 @@
 Bevasarlolista:
 
+1, Tej
+2, Kenyer
