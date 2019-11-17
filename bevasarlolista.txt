@@ -8,3 +8,7 @@ Bevasarlolista
 6, Toalettpapir
 7, Gumimaci
 8, Fogkrem
+9, Dúsított urán
+10, Fogkefe
+11, Lajhár
+12, Tégla
