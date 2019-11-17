@@ -1,0 +1,8 @@
+Ezt veszem az Obiban
+
+1: Kalapacs
+2: furo
+3: csavar
+4: szog
+5: funyiro
+6: viragfold
